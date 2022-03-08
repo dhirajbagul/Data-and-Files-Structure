@@ -1,1 +1,1 @@
-This repository contains implementation of main data structures using c++. 
+This repository contains implementation of some commonly used data structures using c++.
